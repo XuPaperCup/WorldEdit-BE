@@ -86,13 +86,13 @@ worldedit.drawsel.disabled=你所選擇的區域已設定為不可見
 worldedit.wand.generic.info=成功將新設定應用於工具上
 worldedit.wand.selwand.info=潛行和點擊方塊以選擇位置 #1；不潛行和點擊方塊以選擇位置 #2
 worldedit.wand.navwand.info=潛行和點擊方塊以跳轉到視線中方塊的位置；不潛行和點擊方塊以穿牆
-worldedit.wand.brush.no-bind=No 畫筆 has been bounded to this tier.
+worldedit.wand.brush.no-bind=此畫筆没有設定資料。
 
-worldedit.selection.no-primary=請先設定第一個位置 (使用區域選擇工具潛行和點擊方塊或輸入命令;pos1)
-worldedit.selection.cuboid.explain.primary=第一個位置已設定至 %s.
-worldedit.selection.cuboid.explain.primary-area=第一個位置已設定至 %1 (已選擇 %2 個方塊).
-worldedit.selection.cuboid.explain.secondary=第二個位置已設定至 %s.
-worldedit.selection.cuboid.explain.secondary-area=第二個位置已設定至 %1 (已選擇 %2 個方塊).
+worldedit.selection.no-primary=請先設定第一個位置。(使用區域選擇工具潛行和點擊方塊或輸入命令;pos1)
+worldedit.selection.cuboid.explain.primary=第一個位置已設定至 %s。
+worldedit.selection.cuboid.explain.primary-area=第一個位置已設定至 %1 (已選擇 %2 個方塊)。
+worldedit.selection.cuboid.explain.secondary=第二個位置已設定至 %s。
+worldedit.selection.cuboid.explain.secondary-area=第二個位置已設定至 %1 (已選擇 %2 個方塊)。
 
 worldedit.copy.explain=已複製 %s 個方塊
 worldedit.cut.explain=已剪下 %s 個方塊
