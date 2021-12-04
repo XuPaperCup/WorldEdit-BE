@@ -1,5 +1,5 @@
-pack.name=WorldEdit: BE [RP]
-pack.description=這是一個 resource pack 用於 WorldEdit add-on(附加包)的§a§r。 請確認在添加 的同時添加此 。
+pack.name=WorldEdit: BE 基岩版 [RP 資源套件]
+pack.description=這是一個用於 WorldEdit add-on(附加包)的§a資源套件§r。 請確認在添加行為模式包的同時添加此資源套件。
 
 ## ITEMS 物品
 item.wedit:selection_wand=區域選擇工具
@@ -67,7 +67,7 @@ worldedit.redo.none=沒有可重做的操作
 worldedit.clearhistory.cleared=已清除所有操作記錄
 
 worldedit.permission.granted=§e你已獲得 WorldEdit 權限§r
-worldedit.permission.revoked=§e你的 WorldEdit 權限已被撤消§r
+worldedit.permission.revoked=§e已撤消你的 WorldEdit 權限§r
 
 worldedit.error.empty-clipboard=你的剪貼板是空的。請先複製或剪切一個區域。
 worldedit.error.command-fail=無法執行此命令
@@ -78,12 +78,12 @@ worldedit.error.no-permission=你沒有權限執行此命令
 worldedit.error.item.no-perms=你沒有權限使用此物品
 worldedit.error.incomplete-region=請先選擇一個區域
 
-worldedit.help.header=--- Showing help page %1$d of %2$d (;help <page>) ---
+worldedit.help.header=--- 顯示說明第 %1$d 頁 (共 %2$d 頁) (;help <頁數>) ---
 
 worldedit.drawsel.enabled=你所選擇的區域已設定為可見
 worldedit.drawsel.disabled=你所選擇的區域已設定為不可見
 
-worldedit.wand.generic.info=Wand Updated.
+worldedit.wand.generic.info=工具已應用新設定
 worldedit.wand.selwand.info=潛行和點擊方塊以選擇位置 #1；不潛行和點擊方塊以選擇位置 #2
 worldedit.wand.navwand.info=Sneak and tap block: jump to location; Tap block without sneak: pass through walls
 worldedit.wand.brush.no-bind=No brush has been bounded to this tier.
