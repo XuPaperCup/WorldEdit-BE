@@ -1,5 +1,5 @@
 pack.name=WorldEdit: BE [RP]
-pack.description=This is the resource pack used by the WorldEdit add-on. Be sure to add this along with it.
+pack.description=這是一個 resource pack 用於 WorldEdit add-on(附加包)的§a§r。 請確認在添加 的同時添加此 。
 
 ## ITEMS 物品
 item.wedit:selection_wand=區域選擇工具
