@@ -9,4 +9,4 @@
 
 Step 2: Verification
 
-Step 3: Test in World
+Step 3: Test in Minecraft BE World
