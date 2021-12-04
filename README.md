@@ -5,6 +5,8 @@
 -Not going to translate How to Play Section
 -Not going to translate Sound Word
 ## Progress
->Step 1: Translation< 50%
+>Step 1: Translation 50%
+
 Step 2: Verification
+
 Step 3: Test in World
