@@ -113,7 +113,7 @@ worldedit.brush.invalid-tier=%s is an invalid brush tier.
 ## HOW TO PLAY
 howtoplay.category.worldEdit=WorldEdit
 
-howtoplay.wedit:quick_start=快速開始
+howtoplay.wedit:quick_start=Quick Start
 howtoplay.wedit:quick_start.title=How to Play: Quick Start to WorldEdit
 
 howtoplay.wedit:quick_start.text.1=Welcome! This is a port of the original WorldEdit mod for Minecraft: Java Edition. This addon will help you shape your world right inside Minecraft.
