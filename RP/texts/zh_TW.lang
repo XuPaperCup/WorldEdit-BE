@@ -85,7 +85,7 @@ worldedit.drawsel.disabled=你所選擇的區域已設定為不可見
 
 worldedit.wand.generic.info=工具已應用新設定
 worldedit.wand.selwand.info=潛行和點擊方塊以選擇位置 #1；不潛行和點擊方塊以選擇位置 #2
-worldedit.wand.navwand.info=Sneak and tap block: jump to location; Tap block without sneak: pass through walls
+worldedit.wand.navwand.info=潛行和點擊方塊以跳轉到視線中方塊的位置；不潛行和點擊方塊以穿牆
 worldedit.wand.brush.no-bind=No brush has been bounded to this tier.
 
 worldedit.selection.no-primary=請先設定第一個位置 (使用區域選擇工具潛行和點擊方塊或輸入命令;pos1)
@@ -102,13 +102,13 @@ worldedit.generate.created=已創建 %s 個方塊
 worldedit.set.changed=已變更 %s 個方塊
 
 worldedit.unstuck.moved=There you go!
-worldedit.thru.obstructed=No free spot ahead of you found.
+worldedit.thru.obstructed=在你前面沒有找到可傳送的位置。
 worldedit.thru.none=Not against or facing a wall to go through.
 worldedit.thru.moved=Whoosh!
 worldedit.up.moved=Whoosh!
 worldedit.jumpto.moved=Poof!
 worldedit.jumpto.none=視線中沒有方塊（或方塊距離太遠）!
-worldedit.brush.invalid-tier=%s is an invalid brush tier.
+worldedit.brush.invalid-tier=%s is an 無效的 brush tier.
 
 ## HOW TO PLAY
 howtoplay.category.worldEdit=WorldEdit
