@@ -11,7 +11,7 @@
 Step 2: Verification
 
 Step 3: Test in Minecraft BE World
-## Issue
--Cannot display WorldEdit Permissions Granted command feedback message while using Chinese Traditional Language in game when giving builder tag
+## Issues
+-Cannot display "/tag @s add builder" command feedback message while using Chinese Traditional Language in game when giving builder tag
 
 -Pack Description doesn't show in Chinese Traditional Language when Minecraft language set to Chinese Traditional Language. Besides, it show in Englsih language.
