@@ -88,7 +88,7 @@ worldedit.wand.selwand.info=潛行和點擊方塊以選擇位置 #1；不潛行�
 worldedit.wand.navwand.info=Sneak and tap block: jump to location; Tap block without sneak: pass through walls
 worldedit.wand.brush.no-bind=No brush has been bounded to this tier.
 
-worldedit.selection.no-primary=請先設定第一個位置 (潛行和點擊方塊)
+worldedit.selection.no-primary=請先設定第一個位置 (使用區域選擇工具潛行和點擊方塊或輸入命令;pos1)
 worldedit.selection.cuboid.explain.primary=第一個位置已設定至 %s.
 worldedit.selection.cuboid.explain.primary-area=第一個位置已設定至 %1 (%2).
 worldedit.selection.cuboid.explain.secondary=第二個位置已設定至 %s.
