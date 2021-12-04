@@ -83,7 +83,7 @@ worldedit.help.header=--- 顯示說明第 %1$d 頁 (共 %2$d 頁) (;help <頁數
 worldedit.drawsel.enabled=你所選擇的區域已設定為可見
 worldedit.drawsel.disabled=你所選擇的區域已設定為不可見
 
-worldedit.wand.generic.info=成功將新設定應用於工具上
+worldedit.wand.generic.info=成功將設定應用於工具上
 worldedit.wand.selwand.info=潛行和點擊方塊以選擇位置 #1；不潛行和點擊方塊以選擇位置 #2
 worldedit.wand.navwand.info=潛行和點擊方塊以跳轉到視線中方塊的位置；不潛行和點擊方塊以穿牆
 worldedit.wand.brush.no-bind=此畫筆没有設定資料。
