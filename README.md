@@ -10,7 +10,7 @@
 
 >Step 2: Verification
 
--Test in Minecraft BE World
+-Testing in Minecraft: Bedrock Edition World
 
 ## Known Issues
 -Cannot display "/tag @s add builder" command feedback message while using Chinese Traditional Language in game when giving builder tag
