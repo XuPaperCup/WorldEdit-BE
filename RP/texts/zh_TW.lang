@@ -1,5 +1,5 @@
 pack.name=WorldEdit: BE 基岩版 [RP 資源套件]
-pack.description=這是一個用於 WorldEdit add-on(附加包)的§a資源套件§r。請確認在添加行為模式包的同時添加此資源套件。
+pack.description=這是一個用於 WorldEdit add-on(附加包)的§a資源套件§r。請謹記在添加行為模式包的同時添加此資源套件。
 
 ## ITEMS 物品
 item.wedit:selection_wand=區域選擇工具
@@ -16,8 +16,8 @@ item.wedit:cut_button=剪下
 item.wedit:paste_button=貼上
 item.wedit:undo_button=復原
 item.wedit:redo_button=重做
-item.wedit:pattern_picker=Pattern Picker
-item.wedit:mask_picker=Mask Picker
+item.wedit:pattern_picker=填充方塊選擇器
+item.wedit:mask_picker=取代方塊選擇器
 item.wedit:spawn_glass=生成玻璃方塊
 item.wedit:selection_fill=填滿選中的區域
 item.wedit:config_button=WorldEdit 設定
@@ -41,16 +41,16 @@ item.wedit:blank=
 ## WORLDEDIT COMMANDS 命令
 worldedit.spawn-glass.error=不能在這裡放置方塊
 
-worldedit.pattern-picker.add=Added block to pattern: 
-worldedit.pattern-picker.set=Set pattern to block: 
-worldedit.mask-picker.add=Added block to mask: 
-worldedit.mask-picker.set=Set mask to block: 
+worldedit.pattern-picker.add=已新增以下方塊到填充方塊選擇器: 
+worldedit.pattern-picker.set=已設定以下方塊為填充方塊: 
+worldedit.mask-picker.add=已新增以下方塊到取代方塊選擇器: 
+worldedit.mask-picker.set=已設定以下方塊為取代方塊: 
 
 worldedit.brush-config.choose-brush=請選擇要設定的畫筆。
 worldedit.brush-config.choose-kind=請選擇畫筆的形狀。
 worldedit.brush-config.select-radius=請選擇畫筆的大小。
 worldedit.brush-config.select-height=請選擇畫筆的高度。
-worldedit.brush-config.pattern-mask=Make a pattern and optional mask for the 畫筆
+worldedit.brush-config.pattern-mask=請設定畫筆的填充方塊(必選)和取代方塊(可選)。
 worldedit.brush-config.confirm=這樣可以嗎?
 worldedit.brush-config.affects=Affects: %s
 worldedit.brush-config.creates=Creates: %s
@@ -83,7 +83,7 @@ worldedit.help.header=--- 顯示說明第 %1$d 頁 (共 %2$d 頁) (;help <頁數
 worldedit.drawsel.enabled=你所選擇的區域已設定為可見
 worldedit.drawsel.disabled=你所選擇的區域已設定為不可見
 
-worldedit.wand.generic.info=成功將設定應用於工具上
+worldedit.wand.generic.info=新設定已應用於工具上
 worldedit.wand.selwand.info=潛行和點擊方塊以選擇位置 #1；不潛行和點擊方塊以選擇位置 #2
 worldedit.wand.navwand.info=潛行和點擊方塊以跳轉到視線中方塊的位置；不潛行和點擊方塊以穿牆
 worldedit.wand.brush.no-bind=此畫筆没有設定資料。
