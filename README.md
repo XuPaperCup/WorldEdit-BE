@@ -6,9 +6,9 @@
 
 -Not going to translate Sound Word
 ## Progression
->Step 1: Translation
+>Step 1: Translation (Completed)
 
-Step 2: Verification
+>Step 2: Verification
 
 Step 3: Test in Minecraft BE World
 ## Known Issues
