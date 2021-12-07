@@ -108,7 +108,7 @@ worldedit.thru.moved=Whoosh!
 worldedit.up.moved=Whoosh!
 worldedit.jumpto.moved=Poof!
 worldedit.jumpto.none=視線中沒有方塊（或方塊距離太遠）!
-worldedit.brush.invalid-tier=%s is an 無效的 brush tier.
+worldedit.brush.invalid-tier=%s是一個無效的畫筆材質。
 
 ## HOW TO PLAY
 howtoplay.category.worldEdit=WorldEdit
