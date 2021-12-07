@@ -1,6 +1,6 @@
 pack.name=WorldEdit: BE 基岩版 [RP 資源套件]
 pack.description=這是一個用於 WorldEdit add-on(附加包)的§a資源套件§r。請謹記在添加行為模式包的同時添加此資源套件。
-## This [Chinese Traditional] Translation File is for [WorldEdit: Bedrock Edition] MCBE addon made by SIsilicon, apply to addon version 0.2.0
+## This [Chinese Traditional] Translation File is used for [WorldEdit: Bedrock Edition] MCBE addon made by SIsilicon, apply to addon version 0.2.0
 
 ## ITEMS 物品
 item.wedit:selection_wand=區域選擇工具
