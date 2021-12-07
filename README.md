@@ -12,6 +12,8 @@
 
 -Testing in Minecraft: Bedrock Edition World
 
+Step 3: Fix Issues
+
 ## Known Issues
 -Cannot display "/tag @s add builder" command feedback message while using Chinese Traditional Language in game when giving player builder tag
 
