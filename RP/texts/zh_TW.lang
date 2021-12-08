@@ -86,7 +86,7 @@ worldedit.drawsel.disabled=你所選擇的區域已設定為不可見
 
 worldedit.wand.generic.info=已更新工具
 worldedit.wand.selwand.info=潛行和點擊方塊以選擇位置 #1；不潛行和點擊方塊以選擇位置 #2
-worldedit.wand.navwand.info=潛行和點擊方塊以跳轉到視線中方塊的位置；不潛行和點擊方塊以穿牆
+worldedit.wand.navwand.info=潛行和點擊方塊以傳送到視線中方塊的位置；不潛行和點擊方塊以穿牆
 worldedit.wand.brush.no-bind=此畫筆没有設定資料。
 
 worldedit.selection.no-primary=請先設定第一個位置。(使用區域選擇工具潛行和點擊方塊或輸入命令;pos1)
@@ -109,7 +109,7 @@ worldedit.thru.moved=Whoosh!
 worldedit.up.moved=Whoosh!
 worldedit.jumpto.moved=Poof!
 worldedit.jumpto.none=視線中沒有方塊（或方塊距離太遠）!
-worldedit.brush.invalid-tier=%s是一個無效的畫筆材質。
+worldedit.brush.invalid-tier=%s 是一個無效的畫筆材質。
 
 ## HOW TO PLAY
 howtoplay.category.worldEdit=WorldEdit
