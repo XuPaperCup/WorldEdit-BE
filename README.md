@@ -29,7 +29,7 @@ Translation file path for Behaviour Pack: WorldEdit-BE/BP/texts/zh_TW.lang
 ## Installation
 *Please note that the translation may not be fully correct and there might be some issue occur.*
 
-Step to install the Chinese Traditional Language
+Steps to install the Chinese Traditional Language
 1. Download the latest released translation file according to your WorldEdit-BE version.
 2. Extract RP and BP file from the zip file.
 3. Replace the RP/texts file and BP/texts file to the world that you want to apply.
