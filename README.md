@@ -36,4 +36,4 @@ Step to install the Chinese Traditional Language
 4. Remember to select the Chinese Traditional Language in Minecraft BE settings to apply.
 5. The installation is completed.
 
-<a href="https://github.com/XuPaperCup/WorldEdit-BE/releases">➜ Click here for the released version list to download files</a>
+<a href="https://github.com/XuPaperCup/WorldEdit-BE/releases" target="_blank">➜ Click here for the released version list to download files</a>
