@@ -1,11 +1,13 @@
-# This repository is a forked from SIsilicon/WorldEdit-BE.
+# This repository is a fork from SIsilicon/WorldEdit-BE.
 ## This forked repository is working on
 -Chinese Traditional Language Support (Not Fully Supported)
+
 ## This Translation won't support
 -Not going to translate How to Play Section
 
 -Not going to translate Sound Word
-## Progression
+
+## Progression (For WorldEdit-BE 0.2.0)
 >Step 1: Translation (Completed)
 
 >Step 2: Verification (Currently Working)
