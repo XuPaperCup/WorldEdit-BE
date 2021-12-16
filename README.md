@@ -12,8 +12,6 @@
 
 -Testing in Minecraft: Bedrock Edition World
 
-Step 3: Fix Issues
-
 ## Known Issues
 -Cannot display "/tag @s add builder" command feedback message while using Chinese Traditional Language in game when giving player builder tag.
 
@@ -27,7 +25,8 @@ Translation file path for Resource Pack: WorldEdit-BE/RP/texts/zh_TW.lang
 Translation file path for Behaviour Pack: WorldEdit-BE/BP/texts/zh_TW.lang
 
 ## Installation
-*Please note that the translation may not be fully correct and there might be some issue occur, release will be out once it is ready.*
+*Please note that the translation may not be fully correct and there might be some issue occur.
+Currently there are no version released, release will be out once it is ready.*
 
 Step to install the Chinese Traditional Language
 1. Download the latest translation file according to your WorldEdit-BE version.
