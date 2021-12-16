@@ -38,4 +38,4 @@ Step to install the Chinese Traditional Language
 
 <a href="https://github.com/XuPaperCup/WorldEdit-BE/releases">➜ Click here for the released version list to download files</a>
 
-  ➜ Currently there are no any version released, release will be out once it is ready.
+➜ Currently there are no any version released, release will be out once it is ready.
