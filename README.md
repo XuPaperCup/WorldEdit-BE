@@ -34,9 +34,9 @@ Translation file path for Behaviour Pack: <a href="https://github.com/XuPaperCup
 *Please note that the translation may not be fully correct and there might be some issue occur in MCBE.*
 
 ### Prerequisite
-If you haven't, please install the WorldEdit: Bedrock Edition addon made by SIsilicon from MCPEDL Page first.
+If you haven't, please install the WorldEdit: Bedrock Edition addon created by SIsilicon from MCPEDL Page first.
 
-<a href="https://mcpedl.com/worldedit-be-addon/">➜ Link to MCPEDL Page of WorldEdit: Bedrock Edition addon made by SIsilicon</a>
+<a href="https://mcpedl.com/worldedit-be-addon/">➜ Link to MCPEDL Page of WorldEdit: Bedrock Edition addon created by SIsilicon</a>
 ### Release(rel)/Pre-release(pre)
 A <b>release(rel)</b> version mean all English word(s) is fully translated to Chinese word(s) except word(s) mentioned at <a href="https://github.com/XuPaperCup/WorldEdit-BE#this-translation-wont-support">"This Translation won't support" Part of the README.md file</a>.
 
