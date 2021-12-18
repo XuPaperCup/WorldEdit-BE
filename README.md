@@ -22,9 +22,9 @@
 ## Want to help?
 Please do not hesitate to create a pull request for helping if translation are not correct or have a better word(s) to use.
 
-Translation file path for Resource Pack: WorldEdit-BE/RP/texts/(version)/zh_TW.lang
+Translation file path for Resource Pack: RP/texts/(version)/zh_TW.lang
 
-Translation file path for Behaviour Pack: WorldEdit-BE/BP/texts/(version)/zh_TW.lang
+Translation file path for Behaviour Pack: BP/texts/(version)/zh_TW.lang
 
 ## Installation
 *Please note that the translation may not be fully correct and there might be some issue occur.*
