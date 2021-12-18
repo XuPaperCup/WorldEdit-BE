@@ -49,7 +49,7 @@ Steps to install the Chinese Traditional Language:
 4. Replace the (MCBE World Folder)/behavior_packs/WorldEdit/"BP/texts" folder to the (Extracted zip Folder)/"BP/texts" folder.
 5. Remember to select the Chinese Traditional Language in MCBE settings to apply.
 6. The installation is completed.
-7. If you have opened MCBE or entered the world already, you may need to restart the world or restart MCBE to take effect.
+7. If you have already opened MCBE or entered the world before the installation or during the installation, you may need to restart the world or restart MCBE to take effect.
 
 <a href="https://github.com/XuPaperCup/WorldEdit-BE/releases">➜ Click here for the version list to download files</a>
 
