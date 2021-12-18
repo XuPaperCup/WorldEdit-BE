@@ -34,7 +34,7 @@ Translation file path for Behaviour Pack: <a href="https://github.com/XuPaperCup
 <b>*Please note that the translation may not be fully correct and there might be some issue occur to the WorldEdit: Bedrock Edition addon after installation.*</b>
 
 ### Prerequisite
-If you haven't, please install the WorldEdit: Bedrock Edition addon created by SIsilicon from MCPEDL Page first.
+If you haven't, please install the WorldEdit: Bedrock Edition addon Created By SIsilicon from MCPEDL Page first.
 
 <a href="https://mcpedl.com/worldedit-be-addon/">➜ Link to MCPEDL Page of WorldEdit: Bedrock Edition addon created by SIsilicon</a>
 ### Release(rel)/Pre-release(pre)
