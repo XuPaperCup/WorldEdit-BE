@@ -1,1 +1,0 @@
-The files in this folder must be generated with the Typescript compiler (tsc).
