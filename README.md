@@ -42,7 +42,7 @@ A release version mean all English word(s) is fully translated to Chinese word(s
 
 A pre-realease version mean only some part of the English word(s) is translated to Chinese word(s).
 ### Steps Guide
-Steps to install the Chinese Traditional Language
+Steps to install the Chinese Traditional Language:
 1. Download the latest translation file according to your WorldEdit-BE version.
 2. Extract RP and BP file from the zip file.
 3. Replace the (MCBE World Folder)/resource_packs/WorldEdit/"RP/texts" folder to the (Extracted zip Folder)/"RP/texts" folder.
