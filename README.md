@@ -19,8 +19,8 @@
 
 -Pack Description doesn't show in Chinese Traditional Language when Minecraft language set to Chinese Traditional Language. Besides, it show "pack.description" (it seems like translation string didn't work).
 
-## Want to help?
-Please do not hesitate to create a pull request for helping if translation are not correct or have a better word(s) to use.
+## Want to help/contribute?
+Please do not hesitate to create a pull request for helping/contributing if translation are not correct or have a better word(s) to use.
 
 Please do not translate line that have ## from the beignning.
 ### Translation file path
