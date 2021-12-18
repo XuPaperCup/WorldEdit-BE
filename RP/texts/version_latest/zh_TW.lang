@@ -1,5 +1,7 @@
 pack.name=WorldEdit: BE [RP]
 pack.description=This is the resource pack used by the WorldEdit add-on. Be sure to add this along with it.
+## This [Chinese Traditional] Translation File is used for [WorldEdit: Bedrock Edition] MCBE addon created by SIsilicon, apply to addon version PR(#32)Improve custom command system
+## This [Chinese Traditional] Translation File created by PaperCup, Pre-release Translation File Version ?
 
 ## ITEMS
 item.wedit:selection_wand=Selection Wand
