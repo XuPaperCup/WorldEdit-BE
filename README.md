@@ -36,11 +36,11 @@ Translation file path for Behaviour Pack: <a href="https://github.com/XuPaperCup
 ### Prerequisite
 If you haven't, please install the WorldEdit: Bedrock Edition addon made by SIsilicon from MCPEDL Page first.
 
-<a href="https://mcpedl.com/worldedit-be-addon/">➜ Link to MCPEDL Page</a>
-### Release(rel)/Pre-realease(pre)
+<a href="https://mcpedl.com/worldedit-be-addon/">➜ Link to MCPEDL Page of WorldEdit: Bedrock Edition addon made by SIsilicon</a>
+### Release(rel)/Pre-release(pre)
 A release(rel) version mean all English word(s) is fully translated to Chinese word(s) except word(s) mentioned at <a href="https://github.com/XuPaperCup/WorldEdit-BE#this-translation-wont-support">"This Translation won't support" Part of the README.md file</a>.
 
-A pre-realease(pre) version mean only some part of the English word(s) is translated to Chinese word(s).
+A pre-release(pre) version mean only some part of the English word(s) is translated to Chinese word(s).
 ### Steps Guide
 Steps to install the Chinese Traditional Language:
 1. Download the latest translation file according to your WorldEdit-BE version.
