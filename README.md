@@ -37,8 +37,8 @@ If you haven't, please install the WorldEdit-BE addon made by SIsilicon from MCP
 Steps to install the Chinese Traditional Language
 1. Download the latest translation file according to your WorldEdit-BE version.
 2. Extract RP and BP file from the zip file.
-3. Replace the "resource_packs/WorldEdit/RP/texts" folder form the MCBE World Folder to the "RP/texts" folder from the Extract Folder.
-4. Replace the "behavior_packs/WorldEdit/BP/texts" folder form the MCBE World Folder to the "BP/texts" folder from the Extract Folder.
+3. Replace the resource_packs/WorldEdit/"RP/texts" folder form the MCBE World Folder to the "RP/texts" folder from the Extract Folder.
+4. Replace the behavior_packs/WorldEdit/"BP/texts" folder form the MCBE World Folder to the "BP/texts" folder from the Extract Folder.
 5. Remember to select the Chinese Traditional Language in Minecraft BE settings to apply.
 6. The installation is completed.
 
