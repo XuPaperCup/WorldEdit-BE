@@ -31,7 +31,7 @@ Translation file path for Resource Pack: <a href="https://github.com/XuPaperCup/
 Translation file path for Behaviour Pack: <a href="https://github.com/XuPaperCup/WorldEdit-BE/tree/master/BP/texts">BP/texts</a>/(version)/zh_TW.lang
 
 ## Installation
-*Please note that the translation may not be fully correct and there might be some issue occur.*
+*Please note that the translation may not be fully correct and there might be some issue occur in MCBE.*
 
 ### Prerequisite
 If you haven't, please install the WorldEdit-BE addon made by SIsilicon from MCPEDL Page first.
