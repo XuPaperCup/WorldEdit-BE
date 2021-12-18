@@ -52,5 +52,3 @@ Steps to install the Chinese Traditional Language:
 7. If you have already opened MCBE or entered the world before the installation or during the installation, you may need to restart the world or restart MCBE to take effect.
 
 <a href="https://github.com/XuPaperCup/WorldEdit-BE/releases">➜ Click here for the version list to download files</a>
-
-(Currently there are no any version released, release will be out once it is ready.)
