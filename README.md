@@ -38,7 +38,7 @@ If you haven't, please install the WorldEdit-BE addon made by SIsilicon from MCP
 ### Release/Pre-realease
 A release version mean all English word(s) is fully translated to Chinese word(s) except word(s) mentioned at <a href="https://github.com/XuPaperCup/WorldEdit-BE#this-translation-wont-support">"This Translation won't support" Part of the README.md file</a>.
 
-A pre-realease version mean all English word(s) is not fully translated to Chinese word(s).
+A pre-realease version mean only some part of the English word(s) is translated to Chinese word(s).
 ### Steps Guide
 Steps to install the Chinese Traditional Language
 1. Download the latest translation file according to your WorldEdit-BE version.
