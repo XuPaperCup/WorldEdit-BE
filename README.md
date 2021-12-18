@@ -22,6 +22,8 @@
 ## Want to help?
 Please do not hesitate to create a pull request for helping if translation are not correct or have a better word(s) to use.
 
+Please do not translate line that have ## from the beignning.
+### Translation file path
 Translation file path for Resource Pack: <a href="https://github.com/XuPaperCup/WorldEdit-BE/tree/master/RP/texts">RP/texts</a>/(version)/zh_TW.lang
 
 Translation file path for Behaviour Pack: <a href="https://github.com/XuPaperCup/WorldEdit-BE/tree/master/BP/texts">BP/texts</a>/(version)/zh_TW.lang
