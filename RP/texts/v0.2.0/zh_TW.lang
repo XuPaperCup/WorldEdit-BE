@@ -1,6 +1,7 @@
 pack.name=WorldEdit: BE 基岩版 [RP 資源套件]
 pack.description=這是一個用於 WorldEdit add-on(附加包)的§a資源套件§r。請謹記在添加行為模式包的同時添加此資源套件。
-## This [Chinese Traditional] Translation File is used for [WorldEdit: Bedrock Edition] MCBE addon made by SIsilicon, apply to addon version 0.2.0
+## This [Chinese Traditional] Translation File is used for [WorldEdit: Bedrock Edition] MCBE addon created by SIsilicon, apply to addon version 0.2.0
+## This [Chinese Traditional] Translation File created by PaperCup, Release Translation File Version ?
 
 ## ITEMS 物品
 item.wedit:selection_wand=區域選擇工具
@@ -104,7 +105,7 @@ worldedit.set.changed=已變更 %s 個方塊
 
 worldedit.unstuck.moved=There you go!
 worldedit.thru.obstructed=在你前面沒有找到可傳送的位置。
-worldedit.thru.none=Not against or facing a wall to go through.
+worldedit.thru.none=在你前面沒有找到牆壁。
 worldedit.thru.moved=Whoosh!
 worldedit.up.moved=Whoosh!
 worldedit.jumpto.moved=Poof!
