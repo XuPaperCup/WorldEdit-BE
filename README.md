@@ -24,7 +24,7 @@ Please do not hesitate to create a pull request for help/contribute if the trans
 
 Please do not translate line that have ## from the beignning.
 
-You can translate word(s) mentioned at <a href="https://github.com/XuPaperCup/WorldEdit-BE#this-translation-wont-support">"This Translation won't support" Part of the README.md file</a> if you want.
+You can translate word(s) mentioned at <a href="https://github.com/XuPaperCup/WorldEdit-BE#this-translation-wont-support">"This Translation won't support" Part of the README.md file</a> if you want to do.
 ### Translation file path
 Translation file path for Resource Pack: <a href="https://github.com/XuPaperCup/WorldEdit-BE/tree/master/RP/texts">RP/texts</a>/(version)/zh_TW.lang
 
