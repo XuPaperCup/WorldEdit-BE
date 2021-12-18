@@ -5,7 +5,7 @@
 ## This Translation won't support
 -Not going to translate How to Play Section
 
--Not going to translate Sound Word
+-Not going to translate Successfully used Navigation Wand to move word(s)
 
 ## Progression (For WorldEdit-BE 0.2.0)
 >Step 1: Translation (Completed)
