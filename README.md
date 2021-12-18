@@ -10,9 +10,9 @@
 ## Progression (For WorldEdit-BE 0.2.0)
 >Step 1: Translation (Completed)
 
->Step 2: Verification (Currently Working)
+>Step 2: Verification (Completed)
 
--Testing in Minecraft: Bedrock Edition World
+-Tested in Minecraft: Bedrock Edition World
 
 ## Known Issues
 -Cannot display "/tag @s add builder" command feedback message while using Chinese Traditional Language in game when giving player builder tag.
