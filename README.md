@@ -23,6 +23,8 @@
 Please do not hesitate to create a pull request for help/contribute if the translation are not correct, have a better word(s) to use or translate English word(s) to Chinese word(s).
 
 Please do not translate line that have ## from the beignning.
+
+You can translate word(s) mentioned at <a href="https://github.com/XuPaperCup/WorldEdit-BE#this-translation-wont-support">"This Translation won't support" Part of the README.md file</a> if you want.
 ### Translation file path
 Translation file path for Resource Pack: <a href="https://github.com/XuPaperCup/WorldEdit-BE/tree/master/RP/texts">RP/texts</a>/(version)/zh_TW.lang
 
