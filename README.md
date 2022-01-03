@@ -11,7 +11,6 @@
 >Step 1: Translation (Completed)
 
 >Step 2: Verification (Completed)
-
 +Tested in Minecraft: Bedrock Edition World
 
 ## Known Issues
