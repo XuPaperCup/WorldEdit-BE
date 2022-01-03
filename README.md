@@ -1,6 +1,6 @@
 # This repository is a fork from SIsilicon/WorldEdit-BE.
 ## This forked repository is working on
--Chinese Traditional Language Support (Not Fully Supported)
++Chinese Traditional Language Support (Not Fully Supported)
 
 ## This Translation won't support
 -Not going to translate How to Play Section
@@ -12,7 +12,7 @@
 
 >Step 2: Verification (Completed)
 
--Tested in Minecraft: Bedrock Edition World
++Tested in Minecraft: Bedrock Edition World
 
 ## Known Issues
 -Cannot display "/tag @s add builder" command feedback message while using Chinese Traditional Language in game when giving player builder tag.
