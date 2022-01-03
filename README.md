@@ -8,9 +8,10 @@
 -Not going to translate Successfully used Navigation Wand to move word(s)
 
 ## Progression (For WorldEdit-BE 0.2.0)
->Step 1: Translation (Completed)
+Step 1: Translation (Completed)
 
->Step 2: Verification (Completed)
+Step 2: Verification (Completed)
+
 +Tested in Minecraft: Bedrock Edition World
 
 ## Known Issues
