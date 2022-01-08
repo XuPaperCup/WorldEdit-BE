@@ -7,12 +7,10 @@
 
 -Not going to translate Successfully used Navigation Wand to move word(s)
 
-## Progression (For WorldEdit-BE 0.2.0)
-Step 1: Translation (Completed)
+## Progression (For WorldEdit-BE 0.3.0)
+Step 1: Translation (0%)
 
-Step 2: Verification (Completed)
-
-+Tested in Minecraft: Bedrock Edition World
+Step 2: Verification (0%)
 
 ## Known Issues
 -Cannot display "/tag @s add builder" command feedback message while using Chinese Traditional Language in game when giving player builder tag.
