@@ -95,7 +95,7 @@ commands.generic.wedit:tooSmall=The number (%1) is too small! It must be at leas
 commands.generic.wedit:wandInfo=已更新工具
 
 commands.wedit:brush.description=Set the type of a brush
-commands.wedit:brush.noBind=No brush has been bounded to this tier.
+commands.wedit:brush.noBind=此畫筆没有設定資料。
 commands.wedit:clearhistory.description=Clear your editing history
 commands.wedit.clearhistory.explain=已清除所有操作記錄
 commands.wedit:copy.description=Copy the current selection to the clipboard
