@@ -4,7 +4,7 @@ pack.description=An in-development port of the original Java mod and more! Addon
 ## This [Chinese Traditional] Translation File created by PaperCup, Release Translation File Version ?
 
 ## ITEMS 物品
-item.error.wedit:noPerms=You don't have the permission to use this item.
+item.error.wedit:noPerms=你沒有權限使用此物品
 
 item.wedit:selection_wand=區域選擇工具
 item.wedit:stacker_wand=方塊堆疊工具
