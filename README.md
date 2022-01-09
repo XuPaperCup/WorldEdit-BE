@@ -1,6 +1,6 @@
 # This repository is a fork from SIsilicon/WorldEdit-BE.
 ## This forked repository is working on
-+Chinese Traditional Language Support (Not Fully Supported)
++Chinese Traditional Language Support (Not Fully Supported) for WorldEdit: Bedrock Edition MCBE addon created by SIsilicon
 
 ## This Translation won't support
 -Not going to translate How to Play Section
