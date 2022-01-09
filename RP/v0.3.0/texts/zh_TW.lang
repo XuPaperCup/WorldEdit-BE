@@ -1,7 +1,7 @@
 pack.name=WorldEdit [RP 資源套件]
 pack.description=An in-development port of the original Java mod and more! Addon by SIsilicon (@iSiliconS).
 ## This [Chinese Traditional] Translation File is used for [WorldEdit: Bedrock Edition] MCBE addon created by SIsilicon, apply to addon version 0.3.0
-## This [Chinese Traditional] Translation File created by PaperCup, Release Translation File Version ?
+## This [Chinese Traditional] Translation File created by PaperCup, Pre-release Translation File Version ?
 
 ## ITEMS 物品
 item.error.wedit:noPerms=你沒有權限使用此物品
