@@ -24,9 +24,9 @@ Please do not translate line that have ## from the beignning.
 
 You can translate word(s) mentioned at <a href="https://github.com/XuPaperCup/WorldEdit-BE#this-translation-wont-support">"This Translation won't support" Part of the README.md file</a> if you want to do.
 ### Translation file path
-Translation file path for Resource Pack: <a href="https://github.com/XuPaperCup/WorldEdit-BE/tree/master/RP/texts">RP/texts</a>/(version)/zh_TW.lang
+Translation file path for Resource Pack: <a href="https://github.com/XuPaperCup/WorldEdit-BE/tree/master/RP">RP/(version)</a>/texts/zh_TW.lang
 
-Translation file path for Behaviour Pack: <a href="https://github.com/XuPaperCup/WorldEdit-BE/tree/master/BP/texts">BP/texts</a>/(version)/zh_TW.lang
+Translation file path for Behaviour Pack: <a href="https://github.com/XuPaperCup/WorldEdit-BE/tree/master/BP">BP/(version)</a>/texts/zh_TW.lang
 
 ## Installation
 <b>*Please note that the translation may not be fully correct and there might be issue(s) occur to the WorldEdit: Bedrock Edition addon after installation.*</b>
