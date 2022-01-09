@@ -2,7 +2,7 @@
 ## This forked repository is working on
 +Chinese Traditional Language Support (Not Fully Supported) for WorldEdit: Bedrock Edition MCBE addon created by SIsilicon
 
-## This Translation won't support
+## This Translation won't support...
 -Not going to translate How to Play Section
 
 -Not going to translate Successfully used Navigation Wand to move word(s)
