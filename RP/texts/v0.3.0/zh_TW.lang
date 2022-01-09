@@ -126,7 +126,7 @@ commands.wedit:material.description=Set what kind of blocks a brush should make
 commands.wedit:move.description=Move the selection in a certain direction
 commands.wedit:move.explain=Moved %s blocks.
 commands.wedit:navwand.description=Give yourself a navigation wand
-commands.wedit:navwand.explain=Sneak and tap block: jump to location; Tap block without sneak: pass through walls
+commands.wedit:navwand.explain=潛行和點擊方塊以傳送到視線中方塊的位置；不潛行和點擊方塊以穿牆
 commands.wedit:paste.description=Paste your clipboard into the world
 commands.wedit:paste.explain=已貼上 %s 個方塊
 commands.wedit:pos1.description=Set the first position of your selection to the specified or current position
@@ -161,7 +161,7 @@ commands.wedit:undo.none=沒有可復原的操作
 commands.wedit:up.description=Move up a certain number of blocks
 commands.wedit:up.explain=Whoosh!
 commands.wedit:wand.description=Give yourself a selection wand
-commands.wedit:wand.explain=Sneak and tap block: select pos #1; Tap block without sneak: select pos #2
+commands.wedit:wand.explain=潛行和點擊方塊以選擇位置 #1；不潛行和點擊方塊以選擇位置 #2
 commands.wedit:worldedit.description=Information about WorldEdit
 commands.wedit:worldedit.version=WorldEdit 版本: %s
 
