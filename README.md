@@ -43,8 +43,8 @@ A <b>pre-release(pre)</b> version mean only some part of the English word(s) is 
 Steps to install the Chinese Traditional Language:
 1. Download the latest translation file according to your WorldEdit-BE version.
 2. Extract RP and BP file from the zip file.
-3. Replace the (MCBE World Folder)/resource_packs/WorldEdit/"RP/texts" folder to the (Extracted zip Folder)/(WorldEdit-BE version)/"RP/texts" folder.
-4. Replace the (MCBE World Folder)/behavior_packs/WorldEdit/"BP/texts" folder to the (Extracted zip Folder)/(WorldEdit-BE version)/"BP/texts" folder.
+3. Replace the (MCBE World Folder)/resource_packs/WorldEdit/RP/"texts" folder to the (Extracted zip Folder)/RP/(WorldEdit-BE version)/"texts" folder.
+4. Replace the (MCBE World Folder)/behavior_packs/WorldEdit/BP/"texts" folder to the (Extracted zip Folder)/BP/(WorldEdit-BE version)/"texts" folder.
 5. Remember to select the Chinese Traditional Language in MCBE settings to apply.
 6. The installation is completed.
 7. If you have already opened MCBE or entered the world before the installation or during the installation, you may need to restart the world or restart MCBE to take effect.
