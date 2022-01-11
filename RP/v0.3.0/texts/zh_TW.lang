@@ -162,7 +162,7 @@ commands.wedit:up.description=Move up a certain number of blocks
 commands.wedit:up.explain=Whoosh!
 commands.wedit:wand.description=Give yourself a selection wand
 commands.wedit:wand.explain=潛行和點擊方塊以選擇位置 #1；不潛行和點擊方塊以選擇位置 #2
-commands.wedit:worldedit.description=Information about WorldEdit
+commands.wedit:worldedit.description=有關 WorldEdit 的資訊
 commands.wedit:worldedit.version=WorldEdit 版本: %s
 
 ## HOW TO PLAY
