@@ -1,4 +1,5 @@
 # This repository is a fork from SIsilicon/WorldEdit-BE.
+# The translation is suspended due to license distribution.
 ## This forked repository is working on
 +Chinese Traditional Language Support (Not Fully Supported) for WorldEdit: Bedrock Edition MCBE addon created by SIsilicon
 
@@ -9,6 +10,8 @@
 
 ## Progression (For WorldEdit-BE 0.3.0)
 Step 1: Translation (0%)
+
+**[The translation is suspended due to license distribution.]**
 
 Step 2: Verification (0%)
 
