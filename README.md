@@ -1,5 +1,5 @@
 # This repository is a fork from SIsilicon/WorldEdit-BE.
-# The translation is suspended due to license distribution.
+# The translation is suspended due to license distribution
 Since I do not know what commit on this translation is legal and illegal to do (which mean I don't know what I am allowed to do and what I am NOT allowed to do), I will stop updating this translation to prevent I done any not allowed action.
 ## This forked repository is working on
 +Chinese Traditional Language Support (Not Fully Supported) for WorldEdit: Bedrock Edition MCBE addon created by SIsilicon
@@ -12,7 +12,7 @@ Since I do not know what commit on this translation is legal and illegal to do (
 ## Progression (For WorldEdit-BE 0.3.0)
 Step 1: Translation (~45%)
 
-**[The translation is suspended due to license distribution.]**
+**[The translation is suspended due to license distribution. Read more information here.]**
 
 Step 2: Verification (0%)
 
