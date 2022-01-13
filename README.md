@@ -12,7 +12,7 @@ Since I do not know what commit on this translation is legal and illegal to do (
 ## Progression (For WorldEdit-BE 0.3.0)
 Step 1: Translation (~45%)
 
-**[The translation is suspended due to license distribution. Read more information here.]**
+**[The translation is suspended due to license distribution. Read more information <a href="https://github.com/XuPaperCup/WorldEdit-BE#the-translation-is-suspended-due-to-license-distribution">here</a>.]**
 
 Step 2: Verification (0%)
 
