@@ -9,7 +9,7 @@
 -Not going to translate Successfully used Navigation Wand to move word(s)
 
 ## Progression (For WorldEdit-BE 0.3.0)
-Step 1: Translation (0%)
+Step 1: Translation (~45%)
 
 **[The translation is suspended due to license distribution.]**
 
