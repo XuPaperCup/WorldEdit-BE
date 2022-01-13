@@ -1,5 +1,5 @@
 # Version List for WorldEdit-BE Chinese Traditional Language Installation
-## Currently there will not be any new update to translation due to license distribution.
+## Currently there will not be any new update to translation due to license distribution. Read more information <a href="https://github.com/XuPaperCup/WorldEdit-BE#the-translation-is-suspended-due-to-license-distribution">here</a>.
 <a href="https://github.com/XuPaperCup/WorldEdit-BE/blob/master/README.md#installation" target="#readme_installion">➜ See Installation for installing steps guide</a>
 
 <TABLE border=1 width=100%>
