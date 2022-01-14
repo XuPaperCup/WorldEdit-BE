@@ -54,3 +54,11 @@ Steps to install the Chinese Traditional Language:
 7. If you have already opened MCBE or entered the world before the installation or during the installation, you may need to restart the world or restart MCBE to take effect.
 
 <a href="https://github.com/XuPaperCup/WorldEdit-BE/blob/master/Verson_List.md">➜ Click here for the Version List to download files</a>
+
+## Frequently Asked Questions (FAQ)
+### Q1.Why I don't make translation to the original addon file?
+A1.The reasons are:
+
+-The Chinese Traditional translation update frequency is high
+
+-This Chinese Traditional translation sometimes does not take the original English word meaning, but it does take the function meaning.
