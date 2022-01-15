@@ -62,3 +62,5 @@ A1.The reasons are:
 -The Chinese Traditional translation update frequency is high
 
 -This Chinese Traditional translation sometimes does not take the original English word meaning, but it does take the function meaning.
+
+**[I may make translation to the original addon file in the future.]**
