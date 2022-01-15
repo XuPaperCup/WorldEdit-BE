@@ -43,7 +43,7 @@ If you haven't, please install the WorldEdit: Bedrock Edition addon created by S
 A <b>release(rel)</b> version mean all English word(s) is fully translated to Chinese word(s) except word(s) mentioned at <a href="https://github.com/XuPaperCup/WorldEdit-BE#this-translation-wont-support">"This Translation won't support" Part of the README.md file</a>.
 
 A <b>pre-release(pre)</b> version mean only some part of the English word(s) is translated to Chinese word(s).
-### Steps Guide
+### Steps Guide (Old Version)
 Steps to install the Chinese Traditional Language:
 1. Download the latest translation file according to your WorldEdit-BE version.
 2. Extract RP and BP file from the zip file.
