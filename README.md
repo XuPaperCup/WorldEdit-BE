@@ -59,7 +59,7 @@ Steps to install the Chinese Traditional Language:
 ### Q1.Why I don't make translation to the original addon file?
 A1.<s>The reasons are:</s>
 
-<s>-The Chinese Traditional translation update frequency is high~</s>
+<s>-The Chinese Traditional translation update frequency is high</s>
 
 <s>-This Chinese Traditional translation sometimes does not take the original English word meaning, but it does take the function meaning.</s>
 
