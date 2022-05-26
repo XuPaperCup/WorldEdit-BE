@@ -1,6 +1,6 @@
 # This repository is a fork from SIsilicon/WorldEdit-BE.
 # The translation is suspended due to license distribution
-Since I do not know what commit on this translation is legal and illegal to do (which mean I don't know what I am allowed to do and what I am NOT allowed to do), I will suspend updating this translation to prevent I done any not allowed action. Don't worry! I am making some of the Chinese Traditional translation to the original addon file in Crowdin.
+Since I do not know what commit on this translation is allowed to do, I will suspend updating this translation to prevent I have done any unallowed action. Don't worry! I am making some of the Chinese Traditional translation to the original addon file in Crowdin.
 ## This forked repository is working on
 +Chinese Traditional Language Support (Not Fully Supported) for WorldEdit: Bedrock Edition MCBE addon created by SIsilicon
 
@@ -17,22 +17,18 @@ Step 1: Translation (~45%)
 Step 2: Verification (0%)
 
 ## Known Issues
--Cannot display "/tag @s add builder" command feedback message while using Chinese Traditional Language in game when giving player builder tag.
+~~-Cannot display "/tag @s add builder" command feedback message while using Chinese Traditional Language in game when giving player builder tag.~~(fixed on v0.5.0)
 
 -Pack Description doesn't show in Chinese Traditional Language when Minecraft language set to Chinese Traditional Language. Besides, it show "pack.description" (it seems like translation string didn't work).
 
-## Want to help/contribute?
-Please do not hesitate to create a pull request for help/contribute if the translation are not correct, have a better word(s) to use or translate English word(s) to Chinese word(s).
-
-Please do not translate line that have ## from the beignning.
-
-You can translate word(s) mentioned at <a href="https://github.com/XuPaperCup/WorldEdit-BE#this-translation-wont-support">"This Translation won't support" Part of the README.md file</a> if you want to do.
-### Translation file path
+## Can I help/contribute?
+Sure, you can help/contribute the translation on <a href="https://crowdin.com/project/worldedit-for-bedrock/zh-TW">Crowdin</a>.
+### Translation file path (outdated)
 Translation file path for Resource Pack: <a href="https://github.com/XuPaperCup/WorldEdit-BE/tree/master/RP">RP/(WorldEdit-BE version)</a>/texts/zh_TW.lang
 
 Translation file path for Behaviour Pack: <a href="https://github.com/XuPaperCup/WorldEdit-BE/tree/master/BP">BP/(WorldEdit-BE version)</a>/texts/zh_TW.lang
 
-## Installation
+## Installation (outdated)
 <b>*Please note that the translation may not be fully correct and there might be issue(s) occur to the WorldEdit: Bedrock Edition addon after installation.*</b>
 
 ### Prerequisite
