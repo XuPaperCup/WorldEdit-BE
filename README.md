@@ -1,6 +1,6 @@
 # This repository is a fork from SIsilicon/WorldEdit-BE.
 # The translation is suspended due to license distribution
-Since I do not know what commit on this translation is allowed to do, I will suspend updating this translation to prevent I have done any unallowed action. Don't worry! I am making some of the Chinese Traditional translation to the original addon file in <a href="https://crowdin.com/project/worldedit-for-bedrock/zh-TW">Crowdin</a>.
+Since I do not know what commit on this translation is allowed to do, I will suspend updating this translation to prevent I have done any unallowed action. Don't worry! I am adding some of the Chinese Traditional translation to the original addon file in <a href="https://crowdin.com/project/worldedit-for-bedrock/zh-TW">Crowdin</a>.
 ## This forked repository is working on
 +Chinese Traditional Language Support (Not Fully Supported) for WorldEdit: Bedrock Edition MCBE addon created by SIsilicon
 
